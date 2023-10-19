@@ -453,6 +453,10 @@ http://190.216.162.152:8001/play/a08y
 http://190.216.162.152:8001/play/a00j
 #EXTINF:-1,773 WIN SPORTS+ HD
 http://190.216.162.152:8001/play/a01z
+#EXTINF:-1,774 RT ESPAÑOL
+http://160.20.165.245:8000/play/a00w/index.m3u8
+#EXTINF:-1,775 CNN MEXICO ESPAÑOL
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/124473
 
 #EXTINF:-1,800 LIGA MAX 1 
 http://209.45.81.84:8000/play/a00c
